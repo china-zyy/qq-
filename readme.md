@@ -3,6 +3,7 @@
 
 ### 2. 运行代码
 python3 main.py
+
 在对应位置输入cookie, 点击get moving, 获取qq说说数据
 
 ### 3. 分析数据
